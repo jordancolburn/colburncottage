@@ -45,7 +45,11 @@ body, .site-header, .site-footer, h2, h3 {
 
 .post-list {
     li {
+        text-align: center;
         padding-bottom: 15px;
+    }
+    img {
+        max-height: 60vh;
     }
 }
 
