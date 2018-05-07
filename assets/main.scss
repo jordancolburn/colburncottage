@@ -28,6 +28,10 @@ body, .site-header, .site-footer, h2, h3 {
     font-family: fenway-park-jf, sans-serif;
 }
 
+.site-title {
+    padding-top: 30px;
+}
+
 @import "{{ site.theme }}";
 
 
