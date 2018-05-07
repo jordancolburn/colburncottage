@@ -11,6 +11,25 @@ $brand-color: $green;
 $grey-color: $grey;
 $grey-color-light: $light-grey;
 $grey-color-dark: $dark-grey;
+
+h1 {
+    font-family: urw-antiqua, sans-serif;
+}
+
+p, .post-meta {
+    font-family: ff-speak-web, sans-serif;
+}
+
+body, .site-header, .site-footer, h2, h3 {
+    font-family: metallophile-sp8, sans-serif;
+}
+
+.footer-col-3 p {
+    font-family: fenway-park-jf, sans-serif;
+}
+
 @import "{{ site.theme }}";
+
+
 
 
