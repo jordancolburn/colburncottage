@@ -51,6 +51,12 @@ body, .site-header, .site-footer, h2, h3 {
     img {
         max-height: 60vh;
     }
+    a.post-link {
+        &:hover{
+            text-decoration: none;
+            color: $blue;
+        }
+    }
 }
 
 .rss-subscribe {
