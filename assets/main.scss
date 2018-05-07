@@ -12,7 +12,7 @@ $grey-color: $grey;
 $grey-color-light: $light-grey;
 $grey-color-dark: $dark-grey;
 
-h1 {
+h1, .site-title{
     font-family: urw-antiqua, sans-serif;
 }
 
@@ -28,12 +28,17 @@ body, .site-header, .site-footer, h2, h3 {
     font-family: fenway-park-jf, sans-serif;
 }
 
-.site-title {
-    padding-top: 30px;
-}
 
 @import "{{ site.theme }}";
 
+.site-title {
+    padding-top: 30px;
+    padding-bottom: 10px;
+    font-size: 50px;
+    letter-spacing: 5px;
+    text-align: center;
+    width: 100%
+}
 
 .site-header{
     border-bottom: 1px solid $dark-blue;
@@ -61,4 +66,16 @@ body, .site-header, .site-footer, h2, h3 {
 
 .rss-subscribe {
     text-align: center;
+}
+
+.site-nav {
+    width: 100%;
+    text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+    .site-nav {
+        width: unset;
+        text-align: unset;
+    }
 }
