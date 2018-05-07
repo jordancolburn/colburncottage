@@ -28,6 +28,10 @@ body, .site-header, .site-footer, h2, h3 {
     font-family: fenway-park-jf, sans-serif;
 }
 
+.footer-col-3 p {
+    color: $blue;
+}
+
 
 @import "{{ site.theme }}";
 
@@ -37,7 +41,11 @@ body, .site-header, .site-footer, h2, h3 {
     font-size: 50px;
     letter-spacing: 5px;
     text-align: center;
-    width: 100%
+    width: 100%;
+    &:hover {
+        color: $light-blue;
+        text-decoration: none;
+    }
 }
 
 .site-header{
