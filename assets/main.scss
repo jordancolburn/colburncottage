@@ -35,5 +35,20 @@ body, .site-header, .site-footer, h2, h3 {
 @import "{{ site.theme }}";
 
 
+.site-header{
+    border-bottom: 1px solid $dark-blue;
+}
+
+.site-footer{
+    border-top: 1px solid $dark-blue;
+}
+
+.post-list {
+    li {
+        padding-bottom: 15px;
+    }
+}
+
+
 
 
