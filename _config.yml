@@ -21,12 +21,17 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-42007053-2
 instagram_username: colburncottage
+typekit_kit_id: uuo2pah
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+sass:
+  sass_dir: /assets
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
