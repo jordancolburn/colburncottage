@@ -62,7 +62,8 @@ body, .site-header, .site-footer, h2, h3, p {
 }
 
 .site-header{
-    border-bottom: 5px solid $dark-blue;
+    border-top: 3px solid $dark-blue;
+    border-bottom: 3px solid $dark-blue;
 }
 
 .site-footer{
