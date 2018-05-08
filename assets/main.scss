@@ -42,14 +42,23 @@ body, .site-header, .site-footer, h2, h3 {
     letter-spacing: 5px;
     text-align: center;
     width: 100%;
+    text-transform: uppercase;
+    color: $green;
+    &:visited{
+        color: $green;
+    }
     &:hover {
-        color: $light-blue;
+        color: $light-green;
         text-decoration: none;
     }
 }
 
+.wrapper a.site-title {
+    color: $green;
+}
+
 .site-header{
-    border-bottom: 1px solid $dark-blue;
+    border-bottom: 5px solid $dark-blue;
 }
 
 .site-footer{
@@ -79,9 +88,17 @@ body, .site-header, .site-footer, h2, h3 {
 .site-nav {
     width: 100%;
     text-align: center;
+    .page-link {
+        padding: 20px;
+        text-transform: lowercase;
+    }
 }
 
 @media screen and (max-width: 600px) {
+    .site-title {
+        font-size: 24px;
+        padding-top: 40px;
+    }
     .site-nav {
         width: unset;
         text-align: unset;
