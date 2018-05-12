@@ -12,7 +12,7 @@ I don't know what the weather is like where you live but in Louisville Kentucky,
 
 ![Cocktails-6.jpg]({{site.baseurl}}/assets/Cocktails-6.jpg)
 
-I'm not a huge fan of super sweet cocktails so this one is a personal favorite of mine because it's just enough sweet without the "hit you over the head knock you flat" with sugar sweet. If you're not a veggie fan, no worries, the lime juice really shines through and the cucumber is more of a hiding behind the scenes sneakily adding in that freshness you taste flavor.
+I'm not a huge fan of super sweet cocktails so this one is a personal favorite of mine because it's just enough sweet without the "hit you over the head knock you flat" with sugar sweet. If you're not a veggie fan, no worries, the lime juice really shines through and the cucumber is more of a "hiding behind the scenes sneakily adding in that freshness flavor you taste."
 
 The best thing about this cocktail is it's so easy to make, it's pretty, and looks impressive to your guests with minimal effort (and who doesn't LOVE that??)
 
