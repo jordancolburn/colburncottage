@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-05-11 13:10:50 -0500'
-categories: update
+categories: recipe
 image: /assets/Cocktails-6.jpg
 previewText: A perfect cocktail for those summer nights
 ---
