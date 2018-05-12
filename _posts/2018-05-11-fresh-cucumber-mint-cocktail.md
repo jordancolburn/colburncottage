@@ -18,6 +18,7 @@ The best thing about this cocktail is it's so easy to make, it's pretty, and loo
 
 ![Cocktails-8.jpg]({{site.baseurl}}/assets/Cocktails-8.jpg)
 
+
 Let's break it down. 
 
 This recipes calls for: 
@@ -28,19 +29,22 @@ This recipes calls for:
 - Cucumber Vodka
 - Lime Juice
 
+
 ![Cocktails-1.jpg]({{site.baseurl}}/assets/Cocktails-1.jpg)
 
 ![Cocktails-2.jpg]({{site.baseurl}}/assets/Cocktails-2.jpg)
 
 You don't have to use cucumber vodka. If you have the time, muddle the cucumber and mint together and strain out the seeds. Substitue with regular vodka. But I like things easy so I bought the prairie cucumber vodka. I bought this for about $20 but there are cheaper options available.
 
+
 ![Cocktails-3.jpg]({{site.baseurl}}/assets/Cocktails-3.jpg)
 
 ![Cocktails-4.jpg]({{site.baseurl}}/assets/Cocktails-4.jpg)
 
+
 ## Directions
 
-I start with my glasses. I muddle the mint in the bottom of the glass then take out the mint leaves. Make your simple syrup - equal parts water and sugar.
+I start with my glasses. I muddle the mint in the bottom of the glass. Make your simple syrup - equal parts water and sugar.
 
 Add 1.5 ounces of cucumber vodka (the beauty of this is, you can add as much as you want)
 
