@@ -22,4 +22,7 @@ layout: page
         <p>{{ post.previewText | escape }}</p>    
     </li>
 {% endfor %}
+{%- if site.categories[page.category] == null -%}
+    <p>No posts in this category yet. Please check again at a later time.</p>
+{% endif %}
 </ul>
