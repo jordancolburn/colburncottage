@@ -41,13 +41,13 @@ And a Berry Mint Salad with mint from our Garden
 ![MothersDayPicnic-9.jpg]({{site.baseurl}}/assets/MothersDayPicnic-9.jpg)
 
 
-Main course is my absolute FAVORITE summer sandwich, a classic BLT (Bacon, Lettuce, and Tomato) with lettuce from our garden! 
+The main course is my absolute FAVORITE summer sandwich, a classic BLT (Bacon, Lettuce, and Tomato) with lettuce from our garden! 
 
 
 ![MothersDayPicnic-13.jpg]({{site.baseurl}}/assets/MothersDayPicnic-13.jpg)
 
 
-The picnic ended with a personal favorite of mine, Almond Butter Fudge. This is all Jordan's recipe. I didn't do anything!!! I will link the recipes in a little bit :) It's vegan too!
+The picnic ended with another personal favorite of mine, Almond Butter Fudge. This is all Jordan's recipe. I didn't do anything!!! I will link the recipes in a little bit :) It's vegan too!
 
 
 ![MothersDayPicnic-14.jpg]({{site.baseurl}}/assets/MothersDayPicnic-14.jpg)
