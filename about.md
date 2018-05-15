@@ -15,6 +15,7 @@ Hello! My name is Brooke and welcome to my home! I’m a follower of Jesus Chris
 
 
 ![MothersDayPicnic-1.jpg]({{site.baseurl}}/MothersDayPicnic-1.jpg)
+Photo taken by our sweet friend and photographer [Love Hunters](http://love-hunters.com/)
 
 
 I’m a wedding filmmaker alongside Jordan. We’ve been so fortunate and worked incredibly hard to grow our business to where it is today. We’ve been filming weddings for over five years and within those five years, we’ve filmed 100+ beautiful wedding days. We’ve also bought our very first house almost two years ago. Nestled in the middle of St. Matthews in Louisville, Kentucky sits our beautiful little home, Colburn Cottage. 
