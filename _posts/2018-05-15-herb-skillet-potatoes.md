@@ -5,7 +5,7 @@ date: '2018-05-15 10:30:50 -0500'
 categories: recipe
 image: /assets/Coleslaw-7.jpg
 previewText: >-
-  Breakfast, lunch, or Dinner, these versatile Herb Skillet Potatoes are easy to
+  Breakfast, Lunch, or Dinner, these versatile Herb Skillet Potatoes are easy to
   make and so tasty!
 ---
 ## Herb Skillet Potatoes
