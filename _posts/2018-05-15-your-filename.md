@@ -41,7 +41,7 @@ The picnic ended with a personal favorite of mine, Almond Butter Fudge. This is 
 
 ![MothersDayPicnic-14.jpg]({{site.baseurl}}/assets/MothersDayPicnic-14.jpg)
 
-It was a perfect day, not only the flowers, sweet notes, and picnic, but the people who I got to share the day with. I'm still in awe of how the Lord blessed me with my sweet family. Even though there was so much hurt, there was so much joy and I'm thankful. 
+It was a perfect day, not only the flowers, sweet notes, and picnic, but the people who I got to share the day with. I'm still in awe of how the Lord blessed me with my sweet family. Even though there was so much hurt, there was so much joy and I'm thankful. I hope you all had a wonderful Mother's Day! 
 
 ![MothersDayPicnic-15.jpg]({{site.baseurl}}/assets/MothersDayPicnic-15.jpg)
 
