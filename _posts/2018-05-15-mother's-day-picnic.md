@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: '2018-05-11 13:10:50 -0500'
-categories: update
+categories: lifestyle
 image: assets/MothersDayPicnic-6.jpg
 previewText: A perfect Mother's Day Picnic
 ---
