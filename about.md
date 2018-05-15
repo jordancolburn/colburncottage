@@ -27,6 +27,8 @@ Whenever my Mom came to visit she told me how it was such a vacation for her. Sh
 
 I started the Colburn Cottage Instagram account on October 2, 2017. She passed away on October 24, 2017. Colburn Cottage became painful to keep up with. So much of my home reminded me of her. But a little over six months after her passing, I’m launching our website on her birthday, May 3 in honor of her. 
 
-I’m so glad you’re here. Thank you for being a part of my journey and I can’t wait to share my heart and open my home to you. There is so much more to come. 
+I’m so glad you’re here. Thank you for being a part of my journey and I can’t wait to share my heart and open my home to you. We'd love to connect via social media as well!! Find me on Pinterest and follow on Instagram! 
+
+There is so much more to come. 
 
 ![22554955_10212926641459725_8211623844039719766_n.jpg]({{site.baseurl}}/assets/22554955_10212926641459725_8211623844039719766_n.jpg)
