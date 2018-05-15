@@ -25,7 +25,7 @@ My Mom loved decorating. She was so crafty, too. Growing up, she was always pain
 
 Whenever my Mom came to visit she told me how it was such a vacation for her. She said she always felt welcome and comfortable in my home. It was the highest compliment I’d ever received. We talked a lot about me starting this website to showcase not only home decor and recipes, but hospitality. Hospitality in a sense of being hospitable when people came over, of course, but also being open and transparent to others on a different kind of platform. She was such an encourager and believer in me. She was the one who told me my house was like a warm little cottage and with that, we always referred to my house as the Colburn Cottage. 
 
-I started the Colburn Cottage Instagram account on October 2, 2017. She passed away on October 24, 2017. It wasn’t expected, but more on that in another post. Colburn Cottage became painful to keep up with. So much of my home reminded me of her. But a little over six months after her passing, I’m launching our website on her birthday, May 3 in honor of her. 
+I started the Colburn Cottage Instagram account on October 2, 2017. She passed away on October 24, 2017. Colburn Cottage became painful to keep up with. So much of my home reminded me of her. But a little over six months after her passing, I’m launching our website on her birthday, May 3 in honor of her. 
 
 I’m so glad you’re here. Thank you for being a part of my journey and I can’t wait to share my heart and open my home to you. There is so much more to come. 
 
