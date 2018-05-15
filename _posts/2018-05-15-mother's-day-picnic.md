@@ -10,7 +10,7 @@ previewText: A perfect Mother's Day Picnic
 
 ![MothersDayPicnic-7.jpg]({{site.baseurl}}/assets/MothersDayPicnic-7.jpg)
 
-It was a firsts for Mother's Day this year for me. It was my first Mother's Day as a mother and my first without my mother. The day was filled as much joy as sorrow but I am so thankful for my sweet husband and baby boy who made it a day I'll never forget. 
+It was a day of firsts for Mother's Day this year for me. It was my first Mother's Day as a mother and my first without my mother. The day was filled as much joy as sorrow but I am so thankful for my sweet husband and baby boy who made it a day I'll never forget. 
 
 My love languages are gifts and acts of service. My husband accomplished both. He set up the whole thing, cooked everything, and I got the "day off" from being a parent but still enjoyed all the sweet moments with my family. 
 
