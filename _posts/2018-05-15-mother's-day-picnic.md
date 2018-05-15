@@ -29,23 +29,31 @@ We found a shaded and breezy spot in our favorite park, walking distance from ou
 
 Then pasta salad with pepper, balsamic, + cucumber 
 
+
 ![MothersDayPicnic-10.jpg]({{site.baseurl}}/assets/MothersDayPicnic-10.jpg)
 
 ![MothersDayPicnic-11.jpg]({{site.baseurl}}/assets/MothersDayPicnic-11.jpg)
 
+
 And a Berry Mint Salad with mint from our Garden 
+
 
 ![MothersDayPicnic-9.jpg]({{site.baseurl}}/assets/MothersDayPicnic-9.jpg)
 
 
-Main course is my absolutel FAVORITE summer sandwich, a class BLT with lettuce from our garden! 
+Main course is my absolute FAVORITE summer sandwich, a classic BLT (Bacon, Lettuce, and Tomato) with lettuce from our garden! 
+
 
 ![MothersDayPicnic-13.jpg]({{site.baseurl}}/assets/MothersDayPicnic-13.jpg)
 
-The picnic ended with a personal favorite of mine, Almond Butter Fudge. This is all Jordan's recipes, I didn't do anything!!! I will link the recipes in a little bit :) It's vegan too!
+
+The picnic ended with a personal favorite of mine, Almond Butter Fudge. This is all Jordan's recipe. I didn't do anything!!! I will link the recipes in a little bit :) It's vegan too!
+
 
 ![MothersDayPicnic-14.jpg]({{site.baseurl}}/assets/MothersDayPicnic-14.jpg)
 
+
 It was a perfect day, not only the flowers, sweet notes, and picnic, but the people who I got to share the day with. I'm still in awe of how the Lord blessed me with my sweet family. Even though there was so much hurt, there was so much joy and I'm thankful. I hope you all had a wonderful Mother's Day! 
+
 
 ![MothersDayPicnic-15.jpg]({{site.baseurl}}/assets/MothersDayPicnic-15.jpg)
