@@ -1,12 +1,12 @@
 ---
 published: true
 layout: post
-date: '2018-05-11 13:10:50 -0500'
+date: '2018-05-15 10:30:50 -0500'
 categories: recipe
-image: null
+image: /assets/Cocktails-6.jpg
 previewText: >-
-  Breakfast Lunch or Dinner, these herb skillet potatoes are so versatile, easy
-  to make, and tasty!
+  Breakfast, lunch, or Dinner, these versatile Herb Skillet Potatoes are easy to
+  make and so tasty!
 ---
 ## Herb Skillet Potatoes
 
