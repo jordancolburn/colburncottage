@@ -9,7 +9,7 @@ It was a firsts for Mother's Day this year for me. It was my first Mother's Day 
 
 My love languages are gifts and acts of service. My husband accomplished both. He set up the whole thing, cooked everything, and I got the "day off" from being a parent but still enjoyed all the sweet moments with my family. 
 
-I was treated to a Mother's Day Picnic with all of my favorite foods and was gifted the most beautiful [picnic basket](https://www.bedbathandbeyond.com/store/product/picnic-time-reg-22-piece-insulated-picnic-basket-for-4/1062492577?categoryId=12346)!! Best of all, the food he prepared is all dairy free!! (I'm currently dairy free beacuse of little man and his eczema) 
+I was treated to a Mother's Day Picnic with all of my favorite foods and was gifted the most beautiful [picnic basket](https://www.bedbathandbeyond.com/store/product/picnic-time-reg-22-piece-insulated-picnic-basket-for-4/1062492577?categoryId=12346)!! He made and printed out the cutest little menu and best of all, the food he prepared is all dairy free!! (I'm currently dairy free beacuse of little man and his eczema) 
 
 ![MothersDayPicnic-5.jpg]({{site.baseurl}}/assets/MothersDayPicnic-5.jpg)
 
