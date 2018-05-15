@@ -7,7 +7,6 @@ published: true
 ## The Beginning of Colburn Cottage
 
 
-
 Hello! My name is Brooke and welcome to my home! I’m a follower of Jesus Christ, wife to my wonderful husband, Jordan, a Mom to the sweetest little boy who ever lived, Grant and dog Mom to St. Matthew’s cutest little hound, Copper.
 
 
