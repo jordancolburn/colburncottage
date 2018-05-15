@@ -3,7 +3,7 @@ layout: post
 title: About
 permalink: /about/
 published: true
-date: '2018-05-15 10:30:50 -0500'
+date: '2018-05-03 10:30:50 -0500'
 categories: about
 image: /assets/13923756_10208947754510038_3247671632414706299_o.jpg
 previewText: The Beginning of Colburn Cottage
