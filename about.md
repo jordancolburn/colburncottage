@@ -8,7 +8,7 @@ published: true
 
 
 
-Hello! My name is Brooke and welcome to my home! I’m not going to share everything about me in this post but I’ll share the basics! I’m a follower of Jesus Christ, wife to my wonderful husband, Jordan, a Mom to the sweetest little boy who ever lived, Grant and dog Mom to St. Matthew’s cutest little hound, Copper.
+Hello! My name is Brooke and welcome to my home! I’m a follower of Jesus Christ, wife to my wonderful husband, Jordan, a Mom to the sweetest little boy who ever lived, Grant and dog Mom to St. Matthew’s cutest little hound, Copper.
 
 
 ![MothersDayPicnic-1.jpg]({{site.baseurl}}/MothersDayPicnic-1.jpg)
