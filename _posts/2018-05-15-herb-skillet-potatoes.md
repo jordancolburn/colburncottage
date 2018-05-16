@@ -46,7 +46,9 @@ Cut up potatoes ** make sure they are all cut around the same size so this ensur
 
 ![Coleslaw-6.jpg]({{site.baseurl}}/assets/Coleslaw-6.jpg)
 
-Once browned, add three tablespoons of water and reduce heat to low-medium
+Once browned :
+- add three tablespoons of water
+- reduce heat to low-medium
 - stir
 - cover 
 - cook for 7 minutes
