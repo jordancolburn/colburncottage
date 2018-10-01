@@ -1,5 +1,10 @@
 ---
 published: true
+layout: post
+date: '2018-10-01 13:10:50 -0500'
+categories: decor
+image: /assets/Table-2.jpg
+previewText: Fall and Thanksgiving Tablescape
 ---
 ## Thanksgiving Tablescape
 
