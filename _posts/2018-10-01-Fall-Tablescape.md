@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Holiday Table
+## Thanksgiving Tablescape
 
 I can't believe it's already time to start thinking about the holidays! I know it's only October, but the air is getting cooler (except in Kentucky ... it's supposed to be 86 degrees this week because ... Kentucky) *insert the biggest eye roll ever here* and summer is offically behind us! 
 
