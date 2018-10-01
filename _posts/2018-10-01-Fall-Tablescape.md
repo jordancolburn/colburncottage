@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Holiday Table
 
@@ -34,10 +34,3 @@ My biggest advice when decorating a table is to always keep in mind contrast and
 But like I've always said, it's not always about what's on the table but who is around it. My favorite tables are always the ones where mis-matched chairs are crammed together with a plastic table at the end to accomodate more people. I hope your fall table is filled with laughter, joy, and lasting memories. 
 
 ![Table-8.jpg]({{site.baseurl}}/_posts/Table-8.jpg)
-
-
-
-
-
-
-
