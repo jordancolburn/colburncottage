@@ -17,7 +17,7 @@ The inspiration for the table were these [glasses](https://www.worldmarket.com/p
 ![Table-7.jpg]({{site.baseurl}}/_posts/Table-7.jpg)
 ![Table-4.jpg]({{site.baseurl}}/_posts/Table-4.jpg)
 
-This is usually where I start in any decorating design challenge. I find one thing that inspires me and decorate "around" it. I've always been obsessed with magnolia leaves and since we don't have a tree in our yard, my sweet friend let me come over and take some of hers. The magnolia leaves are just placed on the table, they're not strung together into a garland. 
+This is usually where I start in any decorating design challenge. I find one thing that inspires me and decorate around it. I've always been obsessed with magnolia leaves and since we don't have a tree in our yard, my sweet friend let me come over and take some of hers. The magnolia leaves are just placed on the table, they're not strung together into a garland. 
 
 ![Table-6.jpg]({{site.baseurl}}/_posts/Table-6.jpg)
 
@@ -25,7 +25,7 @@ I cut up pieces from one of Hobby Lobby's faux floral fall decor and placed a fe
 
 ![Table-1.jpg]({{site.baseurl}}/_posts/Table-1.jpg)
 
-My plates are from Kate Spade which we got from our wedding and the chargers are these brown plate [chargers](https://www.hobbylobby.com/search/?text=brown+plate+charger&quickview=40880) from Hobby Lobby. I used apples, oranges, figs, and eucalyptus for the place settings. I kept the white plates because I loved the contrast from the chargers + black napkins. 
+My plates are from Kate Spade which we got from our wedding and the chargers are these brown plate [chargers](https://www.hobbylobby.com/search/?text=brown+plate+charger&quickview=40880) from Hobby Lobby. I used apples, oranges, figs, and eucalyptus for the place settings. I kept the white plates because I loved the contrast from the chargers + black napkins. The table runner is also from Target and can be found [here](https://www.target.com/p/gray-table-runner-threshold-153/-/A-52333720)
 
 ![Table-3.jpg]({{site.baseurl}}/_posts/Table-3.jpg)
 
